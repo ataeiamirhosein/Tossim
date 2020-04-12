@@ -5,7 +5,7 @@
 
 ![tossim schem](https://www.iotco.net/tossim.png)  
 
-# Report and Resault:  
+# Report and Result:  
 
 we have three important file type in this simulation project which described below:  
 
