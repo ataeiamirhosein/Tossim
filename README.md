@@ -1,6 +1,8 @@
 
 # Internet Of Things TOSSIM simulation  
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5ade59ba8f024a19b5fd1a605cd25421)](https://www.codacy.com/manual/ataeiamirhosein/Tossim?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ataeiamirhosein/Tossim&amp;utm_campaign=Badge_Grade)
+
 `tossim` is a simulator for tinyos that has has only CLI and you can see a snapshot of it on the below picture.  
 
 ![tossim schem](https://www.iotco.net/tossim.png)  
