@@ -22,7 +22,7 @@ for `~C.nc` file we have all the program code here for used module interfaces an
 
 we can see the result of tossim below in CLI  
 
-![screenshot from result of tossim](http://iotco.net/tos.png)  
+![screenshot from result of tossim]()  
 
 ## TOSSIM simulator  
 
