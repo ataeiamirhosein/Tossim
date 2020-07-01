@@ -5,7 +5,7 @@
 
 `tossim` is a simulator for tinyos that has has only CLI and you can see a snapshot of it on the below picture.  
 
-![tossim schem](https://www.iotco.net/tossim.png)  
+![tossim schem](https://github.com/ataeiamirhosein/Tossim/blob/master/tossim.png)  
 
 # Report and Result:  
 
@@ -39,7 +39,7 @@ Finally, we can use :~$ `make micaz sim` command to compile and build files for 
 
 ## micaz mote  
 
-![micaz](http://iotco.net/micaz.png)  
+![micaz](https://github.com/ataeiamirhosein/Tossim/blob/master/micaz.png)  
 
 #
 powered by [iotconet](https://www.github.com/iotconet)  
